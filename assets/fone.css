@@ -4,3 +4,35 @@
     https://github.com/OkFone5s/OkFone5s.github.io
 
 */
+
+* {
+  color: white;
+}
+
+.fone-dark {
+  background-color: #2a2a2a;
+}
+
+.fone-darker {
+  background-color: #545454;
+}
+
+.force-text-color {
+  color: black !important;
+}
+
+#hero {
+  text-align: center;
+  justify-content: center;
+  justify-items: center;
+  align-content: center;
+}
+
+#hero[h1] {
+  font-size: 28px;
+}
+
+#hero[p] {
+  font-size: 20px;
+  font-style: italic;
+}
